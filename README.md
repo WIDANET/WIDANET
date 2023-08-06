@@ -26,6 +26,5 @@
   <img align="center" src="https://img.shields.io/badge/-willianlopes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-![Snake animation](https://github.com/rafaballerini/WIDANET/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://github.com/WIDANET/WIDANET/blob/output/github-contribution-grid-snake.svg)
 <!--
