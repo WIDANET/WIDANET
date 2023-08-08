@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Willian Lopes  👋</h1> 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Hi, I'm Willian Lopes!  👋</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WIDANET&color=yellow" alt="Profile views" /> </p>
 <br><br>
 
@@ -26,4 +26,4 @@
   <img align="center" src="https://img.shields.io/badge/-willianlopes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-<!--
+<!---
