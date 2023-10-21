@@ -10,7 +10,7 @@
 
 <br><br>
 <img width= "450em" src="https://github-readme-stats.vercel.app/api?username=WIDANET&show_icons=true&theme=vision-friendly-dark"/>
-<img width= "404em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WIDANET&layout=compact&theme=vision-friendly-dark"/>
+<img width= "400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WIDANET&layout=compact&theme=vision-friendly-dark"/>
 
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
