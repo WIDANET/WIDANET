@@ -4,7 +4,7 @@
 
 - 🔥 A programming student and future junior developer
 
-- ♨️ I'm learning java based on love and hate (most love)
+- ♨️ I'm learning java based on love and hate (most love) 
 
 - 🎺 Trumpeter 🎮 Gamer
 
