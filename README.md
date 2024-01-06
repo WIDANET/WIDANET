@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WIDANET&color=yellow" alt="Profile views" /> </p>
 <br><br>
 
-- 🔥 A programming student and future junior developer 
+- 🔥 A programming student and future junior developer  
 
 - ♨️ I'm learning java and .NET based on love and hate (most  love) 
 
