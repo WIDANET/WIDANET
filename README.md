@@ -7,6 +7,8 @@
 - ♨️ I'm learning java and .NET based on love and hate (most  love) 
 
 - 🎺 Trumpeter 🎮 Gamer
+  
+- My portfolio: willianlopes.dev
 
 <br><br>
 <img width= "450em" src="https://github-readme-stats.vercel.app/api?username=WIDANET&show_icons=true&theme=vision-friendly-dark"/>
