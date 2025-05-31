@@ -24,8 +24,7 @@
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/willian-lopes-00919b20a/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-willianlopes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+
   
 </a>
 
